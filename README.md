@@ -88,6 +88,12 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
 
 Then run `composer install`
 
+Or
+
+Once you have Composer installed, you can install the statuspage-php-sdk by running the following command in the root directory of your project:
+
+`composer require alissonlinneker/statuspage-php-sdk`
+
 ### Manual Installation
 
 Download the files and include `autoload.php`:
