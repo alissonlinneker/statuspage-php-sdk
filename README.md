@@ -1,4 +1,5 @@
-# OpenAPIClient-php
+# StatusPage.io OpenAPIClient-php
+[![Latest Stable Version](https://poser.pugx.org/alissonlinneker/statuspage-php-sdk/v/stable.png)](https://packagist.org/packages/alissonlinneker/statuspage-php-sdk)
 
 # Code of Conduct
 Please don't abuse the API, and please report all feature requests and issues to
